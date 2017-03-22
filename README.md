@@ -1,0 +1,3 @@
+# ThirdDay
+listview的简单使用
+在使用listview的适配器时用了两个简单的优化，一个是convertview，一个是 viewholder
