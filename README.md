@@ -1,3 +1,4 @@
 # ThirdDay
 listview的简单使用
 在使用listview的适配器时用了两个简单的优化，一个是convertview，一个是 viewholder
+RecyclerView的3种布局  LinearLayoutManager、GridLayoutManager、StaggeredGridLayoutManager， 在创建时指定就行，然后还实现了item的点击事件
